@@ -16,7 +16,10 @@ Nestor Gomez
 
 '6.     Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once.
 
-# Study Partners
+# Submission Location
+My vba script is located in the main folder of this repository and is named Module2Submission.bas.
+
+# Study Partners - Shared coding concepts and logic
 Stephanie Souza
 Derrick Cazares
 
